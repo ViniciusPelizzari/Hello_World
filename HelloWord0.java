@@ -1,4 +1,4 @@
-public class HelloWord0 {
+public class HelloWorld0 {
 
     public static void main(String[] args) {
         System.out.print("Hello Word!\nMy name is Vinicius Pelizzari da Silva, i have 19 years.\n");
